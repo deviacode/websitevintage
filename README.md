@@ -49,7 +49,7 @@ Encuentras una Landing Page para tu negocio, una sección principal con múltipl
 
 ****
 
- > Presentación en vivo del modelo <a href="https://deviacode.github.io/webSite-Vintage/">Landing Page</a>
+ > Presentación en vivo del modelo <a href="https://deviacode.github.io/webSitevintage/">Landing Page</a>
 
 ##  📌 Contactame : whatsapp : <a href="https://wa.me/5730572285114/" target="_blank">+57 3057228514</a>
 
